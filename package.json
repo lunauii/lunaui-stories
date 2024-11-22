@@ -37,6 +37,7 @@
 		"vitest": "^2.0.4"
 	},
 	"dependencies": {
+		"boxicons": "^2.1.4",
 		"daisyui": "^4.12.14"
 	}
 }
